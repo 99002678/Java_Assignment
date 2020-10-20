@@ -6,10 +6,10 @@ import java.util.Comparator;
 
 public class sortDemo {
 	public static void main(String args[]) {
-		Employee employee1 = new Employee("Pradeep","Mysore",122);
-		Employee employee2 = new Employee("Rama","Banglore",124);
-		Employee employee3 = new Employee("Ravi","Manglore",125);
-		Employee employee4 = new Employee("Raman","Mandya",126);
+		Employee employee1 = new Employee("Aadya","Mysore",122);
+		Employee employee2 = new Employee("Amulya","Banglore",124);
+		Employee employee3 = new Employee("Ananya","Manglore",125);
+		Employee employee4 = new Employee("Anusha","Mandya",126);
 		ArrayList<Employee> employeeList = new ArrayList<>();
 		employeeList.add(employee1);
 		employeeList.add(employee2);
