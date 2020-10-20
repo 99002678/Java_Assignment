@@ -8,9 +8,9 @@ public class Demo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Employee employee1 = new Employee("Aadya","Mysore",122);
-		Employee employee2 = new Employee("Ananya","Banglore",124);
-		Employee employee3 = new Employee("Amulya","Manglore",125);
-		Employee employee4 = new Employee("Anusha","Mandya",126);
+		Employee employee2 = new Employee("Ananya","Mangalore",124);
+		Employee employee3 = new Employee("Amulya","Hospet",125);
+		Employee employee4 = new Employee("Anusha","Bengaluru",126);
 		ArrayList<Employee> employeeList = new ArrayList<>();
 		employeeList.add(employee1);
 		employeeList.add(employee2);
